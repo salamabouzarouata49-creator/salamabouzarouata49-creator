@@ -12,7 +12,7 @@ Je conçois des solutions innovantes et sécurisées, à l'intersection de l'**I
 - 🌐 **Réseaux** — administration et sécurisation (Cisco, Wireshark)
 
 ## 💻 Compétences techniques
-   Catégorie | Technologies |
+  | Catégorie | Technologies |
  |---|---|
  | **Langages** | Python, Kotlin, C, C++, JavaScript, PHP, SQL, HTML/CSS |
  | **Outils** | Android Studio, Wireshark, Cisco Packet Tracer, Git |
