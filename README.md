@@ -1,16 +1,38 @@
-## Hi there 👋
+# Salama Bouzarouata 👋
 
-<!--
-**salamabouzarouata49-creator/salamabouzarouata49-creator** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Diplômée en **Informatique et Intelligence Artificielle** — Université Mohammed Premier, Nador
 
-Here are some ideas to get you started:
+Je conçois des solutions innovantes et sécurisées, à l'intersection de l'**IA**, de la **cybersécurité** et du **développement logiciel**.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛡️ Domaines d'expertise
+
+- 🤖 **Machine Learning** — modélisation, détection d'intrusion (IDS)
+- 🔐 **Cybersécurité** — analyse de vulnérabilités, cryptographie
+- 📱 **Développement mobile & web** — Kotlin/Android, JavaScript/PHP
+- 🌐 **Réseaux** — administration et sécurisation (Cisco, Wireshark)
+
+## 💻 Compétences techniques
+   Catégorie | Technologies |
+ |---|---|
+ | **Langages** | Python, Kotlin, C, C++, JavaScript, PHP, SQL, HTML/CSS |
+ | **Outils** | Android Studio, Wireshark, Cisco Packet Tracer, Git |
+ | **Systèmes** | Linux, Windows |
+
+## 🏆 Certifications
+
+- Introduction to Modern AI — *Cisco Networking Academy & ANAPEC*
+- Introduction à la Cybersécurité — *Cisco Networking Academy & ANAPEC*
+- Cybermenace : Contenu et Défense — *Cisco Networking Academy & ANAPEC*
+- Introduction à la science des données — *Cisco Networking Academy & ANAPEC*
+- English for IT 1 — *Cisco Networking Academy & ANAPEC*
+
+## 🌍 Langues
+
+Arabe (maternelle) · Français (courant) · Anglais (technique)
+
+## 📫 Me contacter
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Salama%20Bouzarouata-blue?logo=linkedin)](https://www.linkedin.com/in/salama-bouzarouata)
+
+---
+💡 *Ouverte aux opportunités en IA, cybersécurité et développement.*
